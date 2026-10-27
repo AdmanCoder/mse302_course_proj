@@ -1,0 +1,33 @@
+ID,Material,Grade / Composition,Fracture Toughness (MPa m^0.5),Flexural Strength (MPa),Elastic Modulus (GPa),Source Type,Reference
+1,Alumina (High-Purity),CoorsTek AD-998 (99.8% Al2O3),4.0,345,380,MatWeb,"MatWeb Data Sheet, CoorsTek AD-998 High Purity Alumina"
+2,Alumina (High-Purity),CoorsTek AD-995 (99.5% Al2O3),3.9,379,370,MatWeb,"MatWeb Data Sheet, CoorsTek AD-995 Structural Ceramic"
+3,Alumina (High-Purity),CeramTec Rubalit 710 (99.6% Al2O3),4.1,410,390,MatWeb,MatWeb / CeramTec Rubalit 710 High-Purity Grade
+4,Alumina (High-Purity),Accuratus 99.5% Alumina,4.0,379,370,MatWeb,MatWeb / Accuratus Ceramic Corp. Data Sheet
+5,Alumina (High-Purity),Saint-Gobain NorAlcon (99.8% Al2O3),4.2,380,385,MatWeb,MatWeb / Saint-Gobain Ceramic Materials NorAlcon
+6,Alumina (High-Purity),Kyocera A-480S (99.7% Al2O3),3.9,380,375,MatWeb,MatWeb / Kyocera Industrial Ceramics Catalog
+7,Alumina (High-Purity),Morgan Alsint 99.7 (99.7% Al2O3),3.8,360,380,MatWeb,MatWeb / Morgan Advanced Materials Alsint 99.7
+8,Alumina (High-Purity),Superior Technical Ceramics 99.8%,4.1,370,380,MatWeb,MatWeb / Superior Technical Ceramics 99.8% Alumina
+9,Alumina (High-Purity),ASM Sintered alpha-Al2O3 (99.9%),3.8,350,380,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 748"
+10,Alumina (High-Purity),ASM Slip-Cast Alumina (99.7%),4.0,360,385,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 749"
+11,Alumina (High-Purity),ASM Hot-Pressed Alumina (99.9%),4.5,480,400,ASM Handbook,"ASM Handbook Vol. 2: Properties & Selection, p. 1024"
+12,Alumina (High-Purity),ASM CIP Alumina (99.5%),3.7,355,375,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 750"
+13,Alumina (High-Purity),NIST Evaluated Sintered alpha-Al2O3,4.0,390,400,Published Journal Article,"Munro, R.G., J. Am. Ceram. Soc., 80 [8] 1919-1928 (1997)"
+14,Alumina (High-Purity),Fine-Grained alpha-Al2O3 (1.2 um),3.6,450,395,Published Journal Article,"Krell, A. & Blank, P., J. Am. Ceram. Soc., 78 [4] 1118-1120 (1995)"
+15,Alumina (High-Purity),Medium-Grained alpha-Al2O3 (2.5 um),4.1,380,390,Published Journal Article,"Krell, A. & Blank, P., J. Am. Ceram. Soc., 78 [4] 1118-1120 (1995)"
+16,Alumina (High-Purity),Polycrystalline alpha-Al2O3 Benchmark,3.8,365,385,Published Journal Article,"Chantikul, P. et al., J. Am. Ceram. Soc., 64 [9] 539-543 (1981)"
+17,Zirconia (3Y-TZP),Tosoh TZ-3Y Standard Sintered,7.0,1200,210,MatWeb,"MatWeb Data Sheet, Tosoh TZ-3Y Zirconia"
+18,Zirconia (3Y-TZP),Tosoh TZ-3YSB-E High-Strength,6.0,1400,210,MatWeb,"MatWeb Data Sheet, Tosoh TZ-3YSB-E Zirconia"
+19,Zirconia (3Y-TZP),CeramTec CeramWise 3Y-TZP,6.5,1250,205,MatWeb,MatWeb / CeramTec CeramWise 3Y-TZP Data
+20,Zirconia (3Y-TZP),Kyocera Z-201N 3Y-TZP,6.8,1100,200,MatWeb,MatWeb / Kyocera Z-201N Zirconia Data Sheet
+21,Zirconia (3Y-TZP),Saint-Gobain ZirPro 3Y-TZP,7.5,1150,210,MatWeb,MatWeb / Saint-Gobain ZirPro Engineering Data
+22,Zirconia (3Y-TZP),Superior Technical Ceramics 3Y-TZP,7.2,1050,205,MatWeb,MatWeb / Superior Technical Ceramics 3Y-TZP
+23,Zirconia (3Y-TZP),CoorsTek Technox 2000 3Y-TZP,7.0,1200,210,MatWeb,MatWeb / CoorsTek Technox 2000 3Y-TZP Data Sheet
+24,Zirconia (3Y-TZP),Accuratus 3Y-TZP,6.5,1100,205,MatWeb,MatWeb / Accuratus Ceramic Corp. 3Y-TZP Data
+25,Zirconia (3Y-TZP),ASM Sintered 3Y-TZP,7.5,1000,210,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 775"
+26,Zirconia (3Y-TZP),ASM Pressureless Sintered 3Y-TZP,6.8,1050,205,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 776"
+27,Zirconia (3Y-TZP),ASM HIPed 3Y-TZP (High Density),7.8,1350,215,ASM Handbook,"ASM Engineered Materials Handbook, Vol. 4: Ceramics and Glasses, p. 777"
+28,Zirconia (3Y-TZP),ASM Standard 3Y-TZP Engineering,7.0,1100,210,ASM Handbook,"ASM Handbook Vol. 2: Properties & Selection, p. 1030"
+29,Zirconia (3Y-TZP),Submicron 3Y-TZP (0.3 um),8.0,1300,210,Published Journal Article,"Hannink, R.H.J. et al., J. Am. Ceram. Soc., 83 [3] 461-487 (2000)"
+30,Zirconia (3Y-TZP),Biomedical Implant Grade 3Y-TZP,6.5,1150,210,Published Journal Article,"Chevalier, J. et al., Biomaterials, 30 [4] 525-539 (2009)"
+31,Zirconia (3Y-TZP),Sintered 3Y-TZP Transformation Benchmark,7.2,1080,205,Published Journal Article,"Lange, F.F., J. Mater. Sci., 17 [1] 225-234 (1982)"
+32,Zirconia (3Y-TZP),Dense Sintered 3Y-TZP,7.4,1220,210,Published Journal Article,"Basu, B. et al., J. Eur. Ceram. Soc., 24 [7] 2031-2040 (2004)"

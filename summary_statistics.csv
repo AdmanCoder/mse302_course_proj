@@ -1,0 +1,5 @@
+,Fracture Toughness (MPa m^0.5),Fracture Toughness (MPa m^0.5),Fracture Toughness (MPa m^0.5),Fracture Toughness (MPa m^0.5),Fracture Toughness (MPa m^0.5),Fracture Toughness (MPa m^0.5),Flexural Strength (MPa),Flexural Strength (MPa),Flexural Strength (MPa),Flexural Strength (MPa),Flexural Strength (MPa),Flexural Strength (MPa),Elastic Modulus (GPa),Elastic Modulus (GPa),Elastic Modulus (GPa),Elastic Modulus (GPa),Elastic Modulus (GPa),Elastic Modulus (GPa)
+,Count,Mean,Std Dev,Median,Min,Max,Count,Mean,Std Dev,Median,Min,Max,Count,Mean,Std Dev,Median,Min,Max
+Material,,,,,,,,,,,,,,,,,,
+Alumina (High-Purity),16,3.97,0.22,4.0,3.6,4.5,16,383.31,36.15,379.0,345,480,16,383.75,9.4,382.5,370,400
+Zirconia (3Y-TZP),16,7.04,0.53,7.0,6.0,8.0,16,1168.75,113.78,1150.0,1000,1400,16,208.12,3.59,210.0,200,215
